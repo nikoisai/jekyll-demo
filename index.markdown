@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Welcome to my *blog* site!
+
+[Link text](jekyllrb.com)
